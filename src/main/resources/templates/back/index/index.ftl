@@ -4,6 +4,6 @@
 <html >
 <@pg.head css="index" />
 <body>
-      Hello Freemarker!
+      Hello Freemarker! webpack
 </body>
 </html>
