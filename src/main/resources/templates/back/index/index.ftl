@@ -6,4 +6,5 @@
 <body>
       Hello Freemarker! webpack
 </body>
+ <@pg.foot js="index" />
 </html>
